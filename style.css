@@ -1,0 +1,11 @@
+body{
+    margin:0px;
+    background-color: darkgray;
+    overflow:hidden;
+    text-align:center;
+}
+
+#MyCanvas{
+    background-color: lightgray;
+    
+}
